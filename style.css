@@ -1,0 +1,59 @@
+#yay{
+ color: cornflowerblue;
+background-color: chartreuse;
+font-size: 20px;
+    font-family: fantasy;
+}
+#thetitle{
+ text-align: center;
+font-family: fantasy;
+color: chartreuse;
+}
+#thesubtitle{
+ text-align: center;
+color: darkorange;
+    background-color: burlywood;
+font-family: monospace;
+}
+#yeah{
+ text-align: center;
+color: cadetblue;
+background-color: blue;
+font-family: sans-serif;
+}
+.menu{
+ list-style: none;
+font-family: monospace;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: cornflowerblue;
+}
+#about{
+text-align: center;
+color: cyan;
+font-family: serif;
+}
+#aboutd{text-align: center;
+color: navy;
+font-family: serif;}
+#myfavorites{
+ text-align: center;
+color:red;
+font-family: sans-serif;
+}
+#myfavoritesd{
+ text-align: center;
+ color: crimson;
+}
+#mywork{
+text-align: center;
+color: blue;
+font-family: fantasy;
+}
+#myworkd{
+ text-align: center;
+color: mediumblue;
+font-family: monospace;
+}
