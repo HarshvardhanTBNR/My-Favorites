@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>MY MOST FAVOURITE HOBBYYY!</title>
+    <link rel="stylesheet" href="style.css">
+    <ul>
+    <li class="links">About</li>
+    <li class="links">My Favorites</li>
+    <li class="links">My work</li>
+    <li class="links">My Inspiration</li>
+    <li class="links">Contact</li>
+    </ul>
+    </head>
+    <body>
+    <h1 id="thetitle">My Favorite hobby<br><span id="Hobby">is the 1 and only swimming</span></h1>
+    <h2 id="thesubtitle">Swimming is most favorite hobby of mine</h2>
+        <setion id="bio">
+        <h1 id="yeah">SWIMMING</h1>
+            <div class="line"></div>
+            <p id="yay">Swimming is a great workout because you need to move your whole body against the resistance of the water. Swimming is a good all-round activity because it: keeps your heart rate up but takes some of the impact stress off your body. builds endurance, muscle strength and cardiovascular fitness.Swimming is the movement of the body through water using arms and legs. People can swim in the sea, swimming pools, rivers and lakes.The goal of competitive swimming is to improve speed, and to beat other competitors in events. An athlete goes through several stages of training. At the beginning, the body is overloaded with work. The workload becomes less closer to the date of the competition. This final stage is often referred to as "shave and taper"; the swimmer tapering downs his or her workload to be able to perform at their optimal level. At the end of this stage, before competition, the swimmer shaves off all exposed hair and dead skin. Often confused within shaving, swimmers shave to rid the skin of dead skin cells to expose sensitive skin to the water. The effect of shaving is a decrease in drag from hair and an increase in the sensation of "feeling" the water"</p><img src="download%20(1).png" id="pool"><section id="about"><h1>About</h1>
+    I first learned swimming starting with kicking my legs. I started in the small pool and I got better as time passed by, then came the BIG POOL. I practiced for days and days I learned many different strokes I mastered them and sort of started to teach others.THANK YOU.</section><section id="favorites"><h1>My favorites</h1>Pretty much every stroke is my favorite.Freestyle is the simplest stroke.In dolphinstroke you have to wave like a dolphin.</section><section id="work"><h1 id="mywork">My work</h1><h3 id="myworkd">I have done lots of porgress on the way of learning swimming I learned every stroke there is back,back dolphin , butterfly , freestyle , dolphin. And thanks to swimming I never fail. THANK YOU.</h3></section>
+     <section id="inspiration"> <h1 id="myinspiration">My Inspiration</h1><h3 id="myinspirationd">
+       <img src="https://media.gq.com/photos/57a26909bf91805850f35e58/16:9/w_1280,c_limit/michael-phelps.jpg" id="michael">
+      Michael Fred Phelps II[5] (born June 30, 1985)[6] is an American former competitive swimmer and the most successful and most decorated Olympian of all time,[7] with a total of 28 medals.[8] Phelps also holds the all-time records for Olympic gold medals (23),[9] Olympic gold medals in individual events (13), and Olympic medals in individual events (16).[10] When he won eight gold medals at the 2008 Beijing Games, Phelps broke fellow American swimmer Mark Spitz's 1972 record of seven first-place finishes at any single Olympic Games. At the 2004 Summer Olympics in Athens, Phelps had already tied the record of eight medals of any color at a single Games by winning six gold and two bronze medals. At the 2012 Summer Olympics in London, Phelps won four gold and two silver medals, and at the 2016 Summer Olympics in Rio de Janeiro, he won five gold medals and one silver. This made him the most successful athlete of the Games for the fourth Olympics in a row. <span><a href="https://www.olympic.org/michael-phelps"</a></span>
+       </h3></section></body></html>

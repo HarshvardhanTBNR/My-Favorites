@@ -1,0 +1,48 @@
+.links{
+display:inline;
+}
+.menu{
+ list-style: none;
+font-family: monospace;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: cornflowerblue;
+}
+body{
+  text-align:center;
+  background:orangered;
+  background-repeat:no-repeat;
+    color:lightgreen;
+  font-family:firebrick;
+  text-shadow:blue;
+}
+#para{
+  font-size:20px;
+  text-shadow: 2px 2px green;
+}
+#swim{
+  width:200px;
+  border-radius:50px;
+  border-color:orangered;
+}
+.menu{
+  list-style:none;
+  font-family:fantasy;
+  float:right;
+  top:10px;
+  right:30px;
+  cursor;pointer;
+  color:#186bc4;
+}
+#swim{
+text-align:center;
+}
+#about{color:pink;
+}
+#favorites{
+ color:grey; 
+}
+#work{color:black; 
+}
